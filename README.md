@@ -4,7 +4,7 @@
 
 I'm Pedro Gengo <a href="https://www.linkedin.com/in/pedrogengo/">
   <img align="center" alt="Pedro's LinkdeIN" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>, a Machine Learning Engineer, currently working at Mercado Livre. I'm lifelong learned and passionate about AI field.
+</a>, a Machine Learning Engineer, currently working at Mercado Livre. I'm a lifelong learner and passionate about AI field.
 
 #### 🔭 What I do as ML Eng?
 
